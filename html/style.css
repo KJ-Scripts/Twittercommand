@@ -1,0 +1,15 @@
+.twitter-message {
+    background-color: #1da1f2; /* Twitter-blauw */
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    display: inline-block;
+    margin: 2px 0;
+}
+
+.twitter-message b {
+    font-weight: bold;
+    color: #ffffff;
+}
